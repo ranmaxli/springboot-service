@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ranmaxli-service-api/ranmaxli-service-api.iml" filepath="$PROJECT_DIR$/ranmaxli-service-api/ranmaxli-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ranmaxli-service-core/ranmaxli-service-core.iml" filepath="$PROJECT_DIR$/ranmaxli-service-core/ranmaxli-service-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ranmaxli-service-user/ranmaxli-service-user.iml" filepath="$PROJECT_DIR$/ranmaxli-service-user/ranmaxli-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ranmaxli-service-web/ranmaxli-service-web.iml" filepath="$PROJECT_DIR$/ranmaxli-service-web/ranmaxli-service-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-service.iml" filepath="$PROJECT_DIR$/springboot-service.iml" />
+    </modules>
+  </component>
+</project>
