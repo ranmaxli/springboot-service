@@ -19,7 +19,6 @@
     <dubbo:monitor protocol="registry"/>
 
     <!-- 消费服务的接口 -->
-    <!--iosten-open-user-->
     <dubbo:reference id="userService" interface="com.ranmaxli.api.service.UserServices" timeout="50000"
                      url="dubbo://192.168.14.1:20991"/>
 </beans>

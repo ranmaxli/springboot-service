@@ -17,7 +17,6 @@
 
 
     <!-- 要暴露的服务接口 -->
-    <!--user-open-user-->
     <dubbo:service interface="com.ranmaxli.api.service.UserServices" ref="userController" timeout="5000"/>
 
 </beans>
